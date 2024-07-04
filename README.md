@@ -1,1 +1,1 @@
-https://malevicholga.github.io/rsschool-cv/cv
+https://malevicholga.github.io/rsschool-cv/

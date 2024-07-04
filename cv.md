@@ -1,7 +1,7 @@
 # Malevich Olga
 ## Contacts
 * Location: Minsk, Belarus
-* Phone: +375 (29) 722-47-34
+* Phone: +375 29 722-47-34
 * Email: malevichot@gmail.com
 * GitHub: [malevicholga](https://github.com/malevicholga)
 * LinkedIn: [Olga Malevich](https://www.linkedin.com/in/olga-malevich/)
